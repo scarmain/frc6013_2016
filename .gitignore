@@ -1,0 +1,4 @@
+bin/*
+*.class
+dist/FRCUserProgram.jar
+src/org/usfirst/frc/*.zip
